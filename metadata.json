@@ -1,0 +1,6 @@
+{
+  "name": "Indian House Price Predictor & Analytics",
+  "description": "AI-powered real estate analytics and price prediction platform for Indian markets with explainable XGBoost forecasting, dashboards, and deep learning reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
