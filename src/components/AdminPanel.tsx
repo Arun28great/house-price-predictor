@@ -80,7 +80,7 @@ export default function AdminPanel({ currentUser }: AdminPanelProps) {
           body: JSON.stringify({
             fileName: uploadFileName,
             rowCount: uploadRowCount,
-            uploaderEmail: currentUser?.email || "arunsakthi2802@gmail.com"
+            uploaderEmail: currentUser?.email || "shaganasundar9@gmail.com"
           })
         });
         if (res.ok) {
